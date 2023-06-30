@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "mr. a",
+      "email": "a@gmail.com",
+      "password": "password"
+    },
+    {
+      "name": "rahen",
+      "email": "rahen@gmail.com",
+      "password": "password",
+      "id": 2
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "type": "income",
+      "category": "Salary",
+      "amount": "2000",
+      "data": "10/2/2012"
+    },
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": "43545",
+      "date": "2023-06-22",
+      "id": 2
+    }
+  ]
+}
